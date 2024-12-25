@@ -2,3 +2,4 @@ node_modules/
 .env
 nodejs.docx
 nodejs.pdf
+.gitignore

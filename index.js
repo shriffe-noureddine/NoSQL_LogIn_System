@@ -10,7 +10,6 @@ const port = process.env.PORT || 5000;
 
 //to access the body being parsed req.body
 app.use(express.json());
-
 app.use(errorHandler);
 
 // use the app as middleware
